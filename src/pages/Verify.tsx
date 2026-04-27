@@ -106,7 +106,6 @@ export default function Verify() {
   <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shadow-lg shadow-[#E8552E]/20 overflow-hidden p-1 group-hover:shadow-[#E8552E]/35 transition-shadow">
     <img src="/logo.png" alt="AllyGo" className="w-full h-full object-contain" />
   </div>
-  ...
           <div className="leading-tight">
             <div className="font-black text-[18px] tracking-tight text-[#1E1812]">
               Ally<span className="text-[#E8552E]">Go</span>

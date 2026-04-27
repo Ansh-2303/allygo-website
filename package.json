@@ -11,6 +11,7 @@
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@supabase/supabase-js": "^2.104.1",
     "@types/react-router-dom": "^5.3.3",
     "framer-motion": "^12.36.0",
@@ -19,6 +20,13 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.14.2"
+=======
+    "@supabase/supabase-js": "^2.57.4",
+    "framer-motion": "^12.36.0",
+    "lucide-react": "^0.344.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+>>>>>>> e1f9f2d8d12f0cf11c73d8571c178157bf0f5f1f
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
